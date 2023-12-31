@@ -2,4 +2,4 @@
 
 I am finally learning SCM hehehe
 <br>
-Author: Rydhampreet Singh Gindra
+Author: Rydhampreet Singh Gindra (Chitkara)
